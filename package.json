@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-ny-dmv",
+  "version": "0.1.0",
+  "description": "New York DMV: record-level vehicle and EV registrations, offices, road tests, driving schools",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "ny-dmv"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-ny-dmv"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

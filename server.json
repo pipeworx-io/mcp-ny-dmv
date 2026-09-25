@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/ny-dmv",
-  "title": "New York State DMV",
-  "description": "New York DMV: record-level vehicle and EV registrations, offices, road tests, driving schools",
-  "version": "0.1.0",
+  "title": "Ny Dmv",
+  "description": "New York State DMV MCP — registered vehicles and EV adoption by county/ZIP/make,",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ny-dmv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ny-dmv",
